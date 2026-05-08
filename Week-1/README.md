@@ -1,1 +1,77 @@
+# 🚀 Salesforce Summer Program – Week 1
 
+Welcome to my Salesforce learning journey repository.
+
+This repository contains:
+- Daily tasks
+- Notes
+- Trailhead progress
+- Learnings
+- Screenshots
+- Doubts and questions
+
+---
+
+# 📂 Week 1 Structure
+
+## 📁 Day-1
+Contains:
+- Learnings
+- Notes
+- CRM concepts
+- Salesforce basics
+- Screenshots
+- Trailhead progress
+
+---
+## 📁 Task-Day-1
+Contains:
+- Daily task instructions
+- Videos and resources
+- Mandatory questions
+
+---
+
+# 📚 Topics Covered in Week 1
+
+- Introduction to Salesforce
+- What is CRM
+- Salesforce Objects and Records
+- Salesforce Interface Basics
+- Salesforce Admin vs Developer
+- Data Model Basics
+
+---
+
+# 🔗 Trailhead Modules
+
+Completed Modules:
+- Platform Basics
+- Data Model Basics
+
+---
+
+# 🎯 Goal
+
+To build strong Salesforce fundamentals and improve CRM knowledge through hands-on learning and practice.
+
+---
+
+# 🛠 Tools Used
+
+- Salesforce Trailhead
+- GitHub
+- VS Code
+- Markdown
+
+---
+
+# 📸 Screenshots
+
+Screenshots are available inside each day folder.
+
+---
+
+# ✨ Author
+
+Lohithya
