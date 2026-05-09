@@ -1,13 +1,13 @@
-# 🚀 Salesforce-training
+# 🚀 Salesforce Summer Training Program
 
-Welcome to my Salesforce Summer Program repository.  
-This repository contains all my daily tasks, notes, learnings, Trailhead progress, screenshots, and Salesforce concepts learned during the program.
+Welcome to my Salesforce Summer Training Program repository.  
+This repository contains all weekly tasks, notes, learnings, Trailhead progress, screenshots, and Salesforce concepts learned throughout the training program.
 
 ---
 
-# 🎯 Program Objectives
+# 🎯 Training Program Objectives
 
-The main goals of this program are:
+The main objectives of this training program are:
 
 - Learn Salesforce fundamentals
 - Understand CRM concepts
@@ -16,8 +16,8 @@ The main goals of this program are:
 - Understand Salesforce development basics
 - Learn configuration vs coding
 - Explore Apex, APIs, and Lightning Components
-- Understand real-world Salesforce applications
-- Build strong Salesforce development knowledge
+- Understand Salesforce security and automation
+- Build real-world Salesforce application knowledge
 
 ---
 
@@ -34,8 +34,8 @@ The main goals of this program are:
 ## ✅ Salesforce Platform
 - Salesforce Platform Overview
 - Multi-Tenant Architecture
-- Salesforce Navigation
-- App Launcher and UI
+- Navigation and User Interface
+- App Launcher and Tabs
 
 ---
 
@@ -49,7 +49,7 @@ The main goals of this program are:
 
 ---
 
-## ✅ Salesforce Development Basics
+## ✅ Salesforce Development
 - Configuration vs Coding
 - Apex Basics
 - APIs and Integrations
@@ -58,31 +58,38 @@ The main goals of this program are:
 
 ---
 
-## ✅ Salesforce Roles
-- Salesforce Admin
-- Salesforce Developer
+## ✅ Salesforce Administration
 - User Management
-- Security Basics
+- Roles and Profiles
+- Permission Sets
+- Reports and Dashboards
 
 ---
 
 # 📂 Repository Structure
 
 ```bash
-Salesforce-Summer-Program/
+Salesforce-Summer-Training-Program/
 │
-├── Day-1/
-│   ├── README.md
-│   ├── Notes.md
-│   ├── Learnings.md
-│   ├── Task-Answers.md
-│   └── Doubts.md
+├── Week-1/
+│   ├── Day-1/
+│   ├── Day-2/
+│   ├── Day-3/
+│   ├── Day-4/
+│   └── Day-5/
 │
-├── Day-2/
-│   ├── README.md
-│   ├── Notes.md
-│   ├── Learnings.md
-│   ├── Task-Answers.md
-│   └── Doubts.md
+├── Week-2/
+│   ├── Day-1/
+│   ├── Day-2/
+│   ├── Day-3/
+│   ├── Day-4/
+│   └── Day-5/
+│
+├── Week-3/
+│   ├── Day-1/
+│   ├── Day-2/
+│   ├── Day-3/
+│   ├── Day-4/
+│   └── Day-5/
 │
 └── Screenshots/
