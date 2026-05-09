@@ -71,7 +71,23 @@ To build strong Salesforce fundamentals and improve CRM knowledge through hands-
 Screenshots are available inside each day folder.
 
 ---
+# 📂 Repository Structure
 
-# ✨ Author
-
-Lohithya
+```bash
+Salesforce-Summer-Program/
+│
+├── Day-1/
+│   ├── README.md
+│   ├── Notes.md
+│   ├── Learnings.md
+│   ├── Task-Answers.md
+│   └── Doubts.md
+│
+├── Day-2/
+│   ├── README.md
+│   ├── Notes.md
+│   ├── Learnings.md
+│   ├── Task-Answers.md
+│   └── Doubts.md
+│
+└── Screenshots/
