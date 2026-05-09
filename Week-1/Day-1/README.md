@@ -31,11 +31,10 @@
 Completed Salesforce Day 1 fundamentals successfully.
 
 📂 Repository Structure
-
 Day-1/
-│   ├── README.md
-│   ├── Notes.md
-│   ├── Learnings.md
-│   ├── Task-Answers.md
-│   └── Doubts.md
-|   └── Screenshots/
+│── README.md
+│── Notes.md
+│── Learnings.md
+│── Task-Answers.md
+│── Doubts.md
+└── Screenshots/
