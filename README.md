@@ -1,4 +1,4 @@
-# 🚀 Salesforce Summer Training Program
+# 🚀 Salesforce Training 
 
 Welcome to my Salesforce Summer Training Program repository.  
 This repository contains all weekly tasks, notes, learnings, Trailhead progress, screenshots, and Salesforce concepts learned throughout the training program.
