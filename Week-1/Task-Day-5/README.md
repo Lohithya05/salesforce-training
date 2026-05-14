@@ -1,4 +1,4 @@
-# 🚀 Salesforce Program – Day 5
+# 🚀 Salesforce training – Day 5
 
 ## 🎯 Objective
 
