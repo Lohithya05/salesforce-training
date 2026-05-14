@@ -1,4 +1,4 @@
-# 🚀 Salesforce training– Light Completion Sprint
+# 🚀 Salesforce training– Day 6 Additional Tasks
 
 ## 🎯 Objective
 
