@@ -1,4 +1,4 @@
-# 🚀 Salesforce Summer Program – Day 3
+# 🚀 Salesforce training – Day 3
 
 ## 🎯 Objective
 
