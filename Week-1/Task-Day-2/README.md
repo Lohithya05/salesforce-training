@@ -1,4 +1,4 @@
-# 🚀 Salesforce Summer Program – Task Day 2
+# 🚀 Salesforce training – Task Day 2
 
 ## 🎯 Objective
 
