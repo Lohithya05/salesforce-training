@@ -1,4 +1,4 @@
-# 🚀 Salesforce Program – Day 6
+# 🚀 Salesforce training – Day 6
 
 ## 🎯 Objective
 
