@@ -1,4 +1,4 @@
-# 🚀 Salesforce Summer Program – Week 1
+# 🚀 Salesforce training – Week 1
 
 Welcome to my Salesforce learning journey repository.
 
