@@ -1,4 +1,4 @@
-# 🚀 Salesforce Program – Day 4
+# 🚀 Salesforce training – Day 4
 
 ## 🎯 Objective
 
