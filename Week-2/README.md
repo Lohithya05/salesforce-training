@@ -1,87 +1,76 @@
-# 🚀 Salesforce training – Week 2
+# 🚀 Salesforce Training – Week 2
 
-# 🎯 Week 2 Objective
+Welcome to Week 2 of my Salesforce learning journey.
 
-Week 2 mainly focused on:
+This week focused on:
 - Enterprise application architecture
-- Salesforce developer workflow
-- Testing and reliability
+- Apex testing
+- Salesforce DX & CLI
 - Lightning Web Components (LWC)
 - Component communication
 - UI + Backend integration
 - Event-driven systems
-- Complete Salesforce mini project integration
-
-This week helped in understanding how real enterprise Salesforce applications are designed and developed.
+- Mini project architecture
 
 ---
 
-# 📚 Topics Covered
+# 📂 Week 2 Structure
 
-## ✅ Apex Testing
-Learned:
-- Importance of testing
-- Unit testing concepts
-- Reliability and bug prevention
-- Enterprise software quality
-
----
-
-## ✅ Asynchronous Apex
-Learned:
-- Background processing
-- Queueable Apex
-- Future methods
-- Async execution
+## 📁 Day-1
+Contains:
+- Apex Testing
+- Asynchronous Apex
+- Salesforce DX
+- CLI workflow
+- Enterprise testing concepts
 
 ---
 
-## ✅ Salesforce DX & CLI
-Learned:
-- Modern Salesforce development workflow
-- Source-driven development
-- GitHub integration
-- Developer productivity tools
+## 📁 Day-2
+Contains:
+- Lightning Web Components (LWC)
+- Component-based UI
+- Frontend vs Backend
+- Security basics
+- Reusable UI architecture
 
 ---
 
-## ✅ Lightning Web Components (LWC)
-Learned:
-- Modern Salesforce UI framework
-- Component-based architecture
-- HTML + JavaScript + Metadata XML
-- Reusable UI design
-
----
-
-## ✅ Component Communication
-Learned:
-- Parent-child communication
-- Events and data passing
-- Reactive UI behavior
+## 📁 Day-3
+Contains:
+- Component communication
+- Parent-child interaction
+- Event-driven UI
+- Aura vs LWC
 - Modular frontend systems
 
 ---
 
-## ✅ UI + Backend Integration
-Learned:
-- Frontend vs backend separation
-- Data flow architecture
-- Dynamic application behavior
+## 📁 Day-4
+Contains:
+- Complete mini project
+- CRM integration
+- Validation Rules
+- Flow Automation
+- Apex Logic
+- LWC dashboards
 - Enterprise workflow integration
 
 ---
 
-## ✅ Enterprise System Design
-Learned:
-- CRM architecture
-- Data modeling
-- Validation Rules
-- Flows
-- Apex
-- SOQL
-- Triggers
-- LWC integration
+# 📚 Topics Covered in Week 2
+
+- Apex Testing
+- Asynchronous Apex
+- Salesforce DX
+- Salesforce CLI
+- Lightning Web Components
+- Component Communication
+- Event-Driven Systems
+- Frontend vs Backend Architecture
+- UI + Backend Integration
+- Enterprise System Design
+- Modular Application Architecture
 
 ---
 
@@ -91,67 +80,21 @@ Learned:
 
 ### Features Included
 
-### CRM Concepts
-- Student
-- Faculty
-- Course
-- Department
-
----
-
-### Data Modeling
-- Objects
-- Relationships
-- Fields
-
----
-
-### Validation Rules
-Examples:
-- Email mandatory
-- Seats cannot exceed limit
-- Attendance validation
-
----
-
-### Formula Fields
-Examples:
-- Remaining Seats
-- Attendance Percentage
-
----
-
-### Flow Automation
-Examples:
-- Confirmation emails
-- Attendance alerts
+- Student Management
+- Faculty Management
+- Course Management
+- Department Management
+- Validation Rules
+- Formula Fields
+- Flow Automation
+- Apex Logic
+- Triggers
 - Notifications
+- LWC Dashboards
 
 ---
 
-### Apex Logic
-Examples:
-- Eligibility calculation
-- Bulk operations
-- Advanced business rules
-
----
-
-### LWC UI Screens
-- Student Dashboard
-- Faculty Dashboard
-- Registration Screen
-
----
-
-### Trigger/Event Automation
-Examples:
-- Course full notification
-- Low attendance alert
-
----
-
-# 🔄 Complete Enterprise Workflow
+# 🔄 Enterprise Workflow
 
 Student Registration →
 
@@ -165,83 +108,89 @@ Formula Calculation →
 
 Database Storage →
 
-Platform Events →
-
 Notifications →
 
 Reports & Dashboards
 
 ---
 
-# 💻 Technologies & Concepts Learned
+# 🔗 Trailhead Modules
 
-- Salesforce CRM
-- Apex
-- SOQL
-- Triggers
-- Flow Builder
-- Lightning Web Components
+Completed Modules:
+- Apex Testing
 - Salesforce DX
-- CLI
-- Event-Driven Architecture
-- Modular UI Design
-- Enterprise System Thinking
+- Asynchronous Apex
+- LWC Basics
+- LWC Communication
+- Salesforce Data Integration
+- Secure Server-Side Development
+- Visualforce Basics
+- Aura Basics
 
 ---
 
-# 🧠 Key Realizations
+# 🎯 Goal
 
-During Week 2, I realized that enterprise systems are not built using only coding.
-
-A complete enterprise application requires:
-- UI architecture
-- Backend logic
-- Database management
+To understand how enterprise Salesforce applications are designed using:
+- UI
+- Backend Logic
 - Automation
-- Security
+- Events
+- Databases
 - Testing
-- Event-driven processing
-- Scalability planning
-
-All components work together to create reliable business systems.
+- Security
+- Scalability
 
 ---
 
-# 📈 Challenges Understood
+# 🛠 Tools Used
 
-When systems scale to thousands of users:
-- Performance issues occur
-- Security becomes critical
-- Database optimization is required
-- Automation becomes complex
-- Notifications increase heavily
-
----
-
-# 🌟 Most Interesting Topics
-
-- Lightning Web Components (LWC)
-- Component Communication
-- Enterprise Workflow Integration
-- Event-Driven Architecture
-- Complete Mini Project Design
+- Salesforce Trailhead
+- GitHub
+- VS Code
+- Salesforce CLI
+- Developer Console
+- Markdown
 
 ---
 
-# 📌 Outcome of Week 2
+# 📸 Screenshots
 
-By the end of Week 2, I clearly understood:
-
-✅ Enterprise application architecture  
-✅ Modern Salesforce UI development  
-✅ Frontend vs backend separation  
-✅ Automation and event-driven systems  
-✅ Professional developer workflow  
-✅ Importance of testing and scalability  
-✅ How all Salesforce concepts integrate together  
+Screenshots are available inside each day folder.
 
 ---
 
-# 🚀 Overall Learning
+# 📂 Repository Structure
 
-Week 2 provided a strong understanding of how real Salesforce enterprise applications are structured, automated, scaled, and maintained using modern development practices.
+```bash
+Salesforce-Summer-Program/
+│
+├── Day-1/
+│   ├── README.md
+│   ├── Notes.md
+│   ├── Learnings.md
+│   ├── Task-Answers.md
+│   └── Doubts.md
+│
+├── Day-2/
+│   ├── README.md
+│   ├── Notes.md
+│   ├── Learnings.md
+│   ├── Task-Answers.md
+│   └── Doubts.md
+│
+├── Day-3/
+│   ├── README.md
+│   ├── Notes.md
+│   ├── Learnings.md
+│   ├── Task-Answers.md
+│   └── Doubts.md
+│
+├── Day-4/
+│   ├── README.md
+│   ├── Notes.md
+│   ├── Learnings.md
+│   ├── Task-Answers.md
+│   └── Doubts.md
+│
+└── Screenshots/
