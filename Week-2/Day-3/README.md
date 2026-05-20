@@ -1,4 +1,4 @@
-# 🚀 Salesforce training– Day 9
+# 🚀 Salesforce training– Day 3
 
 ## 🎯 Objective
 
