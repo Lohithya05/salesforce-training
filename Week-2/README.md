@@ -269,7 +269,11 @@ By the end of Week 2, I understood:
 
 # 📂 Repository Structure
 
-Salesforce-Training/
+
+```bash
+Salesforce-Summer-Program/
+│
+├── Week-2/
 │
 ├── Day-1/
 │   ├── README.md
@@ -298,5 +302,4 @@ Salesforce-Training/
 │   ├── Learnings.md
 │   ├── Task-Answers.md
 │   └── Doubts.md
-│
 └── Screenshots/
