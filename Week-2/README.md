@@ -1,16 +1,17 @@
 # 🚀 Salesforce Training – Week 2
 
-Welcome to Week 2 of my Salesforce learning journey.
+Welcome to Week 2 of my Salesforce learning journey repository.
 
-This week focused on:
-- Enterprise application architecture
-- Apex testing
-- Salesforce DX & CLI
+This week focused on advanced Salesforce development concepts including:
+- Apex Testing
+- Asynchronous Processing
+- Salesforce DX
+- CLI Workflow
 - Lightning Web Components (LWC)
-- Component communication
-- UI + Backend integration
-- Event-driven systems
-- Mini project architecture
+- Component Communication
+- Enterprise System Architecture
+- Team Collaboration
+- Professional Development Workflow
 
 ---
 
@@ -19,10 +20,10 @@ This week focused on:
 ## 📁 Day-1
 Contains:
 - Apex Testing
-- Asynchronous Apex
 - Salesforce DX
-- CLI workflow
-- Enterprise testing concepts
+- CLI Workflow
+- Async Apex
+- Enterprise workflow understanding
 
 ---
 
@@ -31,46 +32,96 @@ Contains:
 - Lightning Web Components (LWC)
 - Component-based UI
 - Frontend vs Backend
-- Security basics
+- Security Basics
 - Reusable UI architecture
 
 ---
 
 ## 📁 Day-3
 Contains:
-- Component communication
+- LWC Communication
 - Parent-child interaction
-- Event-driven UI
+- Dashboard architecture
 - Aura vs LWC
-- Modular frontend systems
+- Data flow concepts
 
 ---
 
 ## 📁 Day-4
 Contains:
-- Complete mini project
+- College Management Mini Project
 - CRM integration
 - Validation Rules
 - Flow Automation
 - Apex Logic
 - LWC dashboards
-- Enterprise workflow integration
+- Enterprise architecture
+
+---
+
+## 📁 Day-5
+Contains:
+- Apex Testing
+- Async Processing
+- Reliability engineering
+- Scalability concepts
+- Background job understanding
+
+---
+
+## 📁 Day-6
+Contains:
+- Salesforce DX workflow
+- GitHub collaboration
+- Salesforce CLI
+- Deployment workflow
+- Team development practices
 
 ---
 
 # 📚 Topics Covered in Week 2
 
+## 🔹 Enterprise Development
+- Enterprise application architecture
+- Professional developer workflow
+- Reliability engineering
+- Scalability thinking
+
+---
+
+## 🔹 Apex & Automation
 - Apex Testing
-- Asynchronous Apex
+- Async Apex
+- Triggers
+- Event-driven systems
+- Flow automation
+
+---
+
+## 🔹 Lightning Web Components
+- LWC Basics
+- Component communication
+- Parent-child interaction
+- Reactive UI
+- Modern frontend architecture
+
+---
+
+## 🔹 Developer Workflow
 - Salesforce DX
 - Salesforce CLI
-- Lightning Web Components
-- Component Communication
-- Event-Driven Systems
-- Frontend vs Backend Architecture
-- UI + Backend Integration
-- Enterprise System Design
-- Modular Application Architecture
+- GitHub workflow
+- Version control
+- Deployment management
+
+---
+
+## 🔹 System Design
+- Frontend vs Backend
+- Database interaction
+- Notifications
+- Event processing
+- Modular architecture
 
 ---
 
@@ -80,66 +131,121 @@ Contains:
 
 ### Features Included
 
+### CRM Concepts
 - Student Management
 - Faculty Management
 - Course Management
 - Department Management
-- Validation Rules
-- Formula Fields
-- Flow Automation
-- Apex Logic
-- Triggers
-- Notifications
-- LWC Dashboards
 
 ---
 
-# 🔄 Enterprise Workflow
+### Data Modeling
+- Objects
+- Relationships
+- Fields
+- Records
 
-Student Registration →
+---
 
-Validation Rules →
+### Validation Rules
+Examples:
+- Email cannot be empty
+- Seats cannot exceed limit
+- Attendance validation
 
-Flow Automation →
+---
 
-Trigger Execution →
+### Formula Fields
+Examples:
+- Remaining Seats
+- Attendance Percentage
+- Total Course Count
 
-Formula Calculation →
+---
 
-Database Storage →
+### Flow Automation
+Examples:
+- Auto confirmation email
+- Attendance warning
+- Faculty notification
 
-Notifications →
+---
 
+### Apex Logic
+Examples:
+- Eligibility calculation
+- Bulk processing
+- Advanced business rules
+
+---
+
+### LWC UI Screens
+- Student Dashboard
+- Faculty Dashboard
+- Registration Screen
+- Attendance View
+- Notification Panel
+
+---
+
+# 🔄 Complete Enterprise Workflow
+
+Student Registration →  
+Validation Rules →  
+Flow Automation →  
+Trigger Execution →  
+Formula Calculation →  
+Database Storage →  
+Platform Events →  
+Notifications →  
 Reports & Dashboards
 
 ---
 
-# 🔗 Trailhead Modules
+# 🔗 Trailhead Modules Completed
 
-Completed Modules:
+## ✅ Development Modules
 - Apex Testing
-- Salesforce DX
 - Asynchronous Apex
-- LWC Basics
-- LWC Communication
-- Salesforce Data Integration
-- Secure Server-Side Development
-- Visualforce Basics
-- Aura Basics
+- Salesforce DX
+- Command-Line Interface
 
 ---
 
-# 🎯 Goal
+## ✅ LWC Modules
+- LWC Basics
+- LWC Communication
+- Salesforce Data Integration
 
-To understand how enterprise Salesforce applications are designed using:
-- UI
-- Backend Logic
-- Automation
-- Events
-- Databases
-- Testing
-- Security
-- Scalability
+---
+
+## ✅ Architecture & Security
+- Secure Server-Side Development
+- Search Solution Basics
+- Org Development Model
+
+---
+
+## ✅ UI Framework Exposure
+- Aura Components Basics
+- Visualforce Basics
+
+---
+
+# 🎯 Goals Achieved in Week 2
+
+By the end of Week 2, I understood:
+
+✅ Enterprise application architecture  
+✅ Modern Salesforce UI development  
+✅ Event-driven systems  
+✅ Enterprise testing concepts  
+✅ Async processing  
+✅ Salesforce DX workflow  
+✅ Team collaboration workflow  
+✅ Version control using GitHub  
+✅ Professional deployment workflow  
+✅ Modular enterprise system design  
 
 ---
 
@@ -156,14 +262,14 @@ To understand how enterprise Salesforce applications are designed using:
 
 # 📸 Screenshots
 
-Screenshots are available inside each day folder.
+- Screenshot-1
+- Screenshot-2
 
 ---
 
 # 📂 Repository Structure
 
-```bash
-Salesforce-Summer-Program/
+Salesforce-Training/
 │
 ├── Day-1/
 │   ├── README.md
